@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects in any field, but my main interest is in sports and video games.
 - 📫 How to reach me:
   * email: xgenelin@gmail.com
-  * LinkedIn: 
+  * LinkedIn: https://www.linkedin.com/in/xavier-genelin-391604152/
 
 <!---
 xaviergenelin/xaviergenelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
