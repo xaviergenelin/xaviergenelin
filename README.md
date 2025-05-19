@@ -1,6 +1,6 @@
 ## Hi! I’m Xavier 👋
 
-I recently graduated from NC State University with a Masters degree in Statistics and have a Bachelors degree from Xavier University in Mathematics as well as a concentration in Economics.
+I'm a data scientist with 5+ years of experience. I have a Master's degree in Statistics from NC State University and have a Bachelor's degree from Xavier University in Mathematics, with a concentration in Economics.
 
 <br>
 
